@@ -63,9 +63,9 @@ SQL과 NoSQL 자세한 특징 :
 ## 12.데이터 베이스를 분할하는 방식 중에 아는 것을 말씀해보세요
 
 > 1. Key Based Partitioning 
-2. Range Based Partitioning 
-3. Directory Based Partioning 
-4. Vertical Partitioning
+> 2. Range Based Partitioning 
+> 3. Directory Based Partioning 
+> 4. Vertical Partitioning
 > 
 
 ## 13. 샤딩을 적용 시 문제점 및 고려사항에 대해 말씀해보세요
